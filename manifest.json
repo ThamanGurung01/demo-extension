@@ -1,0 +1,14 @@
+{
+    "manifest_version":3,
+    "name":"Demo",
+    "version":"1",
+    "description":"Demo extension to learn",
+    "action":{
+        "default_popup":"demo.html",
+        "default_icon":{
+            "16":"icon16.png",
+            "48":"icon48.png",
+            "128":"icon128.png"
+        }
+    }
+}
